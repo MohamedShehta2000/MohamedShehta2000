@@ -49,13 +49,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif?cid=790b7611hy6zroc5wrb87wnozqxch3tnw9izjfu920djw43h&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MohamedShehta2000/MohamedShehta2000/output/snake.svg" alt="Snake animation" />
