@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Network Administrator</h2>
+<h2 align="center">SOC Analyst T1</h2>
 
 ###
 
